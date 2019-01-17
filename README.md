@@ -17,5 +17,7 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 ## ADD your name here
 
+-Austin Esparza
+
 - Steve Rogers
 - Ryan Hamblin
